@@ -6,7 +6,7 @@ Simulated data for each computational model with 100 participants is included in
 
 Behavioral data for 28 participants is included in \BEH
 
-The mfit toolbox by Samule Gershman (https://github.com/sjgershm/mfit.git) is already added as a submodule.
+The mfit toolbox by Samuel Gershman (https://github.com/sjgershm/mfit.git) is already added as a submodule.
 
 For questions, @fwurm / wurmfranz@gmx.de
 
