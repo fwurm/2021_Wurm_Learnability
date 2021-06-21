@@ -1,0 +1,3 @@
+[submodule "mfit"]
+	path = mfit
+	url = https://github.com/sjgershm/mfit.git
