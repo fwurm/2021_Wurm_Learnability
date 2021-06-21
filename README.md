@@ -3,6 +3,7 @@ Code and data for
 Wurm F, Walentowska W, Ernst B, Severo M, Pourtois G, Steinhauser M (2021) Task learnability modulates surprise but not valence processing for reinforcement learning in probabilistic choice tasks
 
 Simulated data for each computational model with 100 participants is included in \Simulation
+
 Behavioral data for 28 participants is included in \BEH
 
 The mfit toolbox by Samule Gershman (https://github.com/sjgershm/mfit.git) is already added as a submodule.
