@@ -1,7 +1,6 @@
 function batch_gamblearn_behavior()
 
-
-dir.dir = 'C:\Users\wurmf\Dropbox\GitHub\gambLearn_OS\';
+dir.dir = pwd;
 
 %%% Directories %%%
 dir.dir_model = [dir.dir 'Models\'];
