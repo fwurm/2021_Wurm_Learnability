@@ -2,7 +2,7 @@ function batch_simulation
 
 
 %%% Path %%%
-dir.dir = pwd;
+dir.dir = [pwd '\'];
 dir.dir_model = [dir.dir 'Models\'];
 dir.dir_fits = [dir.dir 'Fits\'];
 dir.dir_simulation = [dir.dir 'Simulation\'];

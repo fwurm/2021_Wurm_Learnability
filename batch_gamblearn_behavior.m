@@ -1,6 +1,6 @@
 function batch_gamblearn_behavior()
 
-dir.dir = pwd;
+dir.dir = [pwd '\'];
 
 %%% Directories %%%
 dir.dir_model = [dir.dir 'Models\'];
