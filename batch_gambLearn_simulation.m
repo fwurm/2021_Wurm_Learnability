@@ -7,6 +7,7 @@ dir.dir_model = [dir.dir 'Models\'];
 dir.dir_fits = [dir.dir 'Fits\'];
 dir.dir_simulation = [dir.dir 'Simulation\'];
 dir.setting = 'github'; %adapted for github
+
 %adding model
 addpath('Routines\');
 addpath('Models\');
