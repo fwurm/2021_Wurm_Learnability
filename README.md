@@ -2,9 +2,9 @@ Code and data for
 
 Wurm F, Walentowska W, Ernst B, Severo M, Pourtois G, Steinhauser M (2021) Task learnability modulates surprise but not valence processing for reinforcement learning in probabilistic choice tasks
 
-Simulated data for each computational model with 100 participants is included in \Simulation
-Behavioral data for 30 participants is included in \BEH
-EEG data for 30 participants can be downloaded via Figshare (https://figshare.com/s/3fc4f009b16feb3eabcb)
+Simulated data for each computational model with 100 participants is included in \Simulation.
+Behavioral data for 30 participants is included in \BEH.
+EEG data for 30 participants can be downloaded via Figshare (https://figshare.com/s/3fc4f009b16feb3eabcb).
 
 The mfit toolbox (https://github.com/sjgershm/mfit.git) is already added as a submodule.
 The EEGLAB toolbox (https://github.com/sccn/eeglab.git) is already added as a submodule.
