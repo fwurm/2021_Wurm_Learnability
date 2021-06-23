@@ -1,6 +1,6 @@
 function batch_gamblearn_eeg()
 
-% necessary GND file is provided in .\RPEs\LAprior-zsep\
+% relevant GND files with single-trial regression results are already provided
 
 % in order to replicate the results from Wurm, Walentowska, Ernst, Severo,
 % Pourtois, Steinhauser (2021), download the preprocesses EEG data via 
